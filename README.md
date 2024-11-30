@@ -65,7 +65,7 @@ Um aplicativo Android para catalogar e explorar árvores da região amazônica.
 5. Conecte um dispositivo Android ou utilize um emulador.
 6. Compile e execute o aplicativo.
 
-## Estrutura do Projeto
+## 🚧 Estrutura do Projeto
 
 - **MainActivity.java**:
   Gerencia a exibição da lista de árvores e integração com a API.
