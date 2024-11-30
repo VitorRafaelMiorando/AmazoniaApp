@@ -87,4 +87,4 @@ Um aplicativo Android para catalogar e explorar árvores da região amazônica.
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob uma licença personalizada. Você pode usar, modificar e compartilhar o código, **mas não para fins comerciais**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
